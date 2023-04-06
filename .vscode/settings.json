@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./Cargo.toml",
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false,
+  "rust-analyzer.assist.emitMustUse": true,
+  "rust-analyzer.completion.autoimport.enable": true,
+}
